@@ -1,4 +1,4 @@
-package smoothingfilter
+package smoothingfilter;
 
 import com.maxeler.maxcompiler.v2.build.EngineParameters;
 import com.maxeler.maxcompiler.v2.kernelcompiler.Kernel;
